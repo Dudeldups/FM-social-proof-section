@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://dudeldups.github.io/FM-social-proof-section)
+- [Solution on Fronend Mentor](https://www.frontendmentor.io/solutions/vanilla-css-social-proof-section-xTt8KWhUhH)
+- [Live Site](https://dudeldups.github.io/FM-social-proof-section)
 
 ## Built with
 
